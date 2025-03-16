@@ -2,9 +2,9 @@
 
 ## Why?
 
-If you are tired of the immense, unnecessary boilerplate that is `create-react-app`, and you want something a lot lighter, and more barebones (while still being modern in its approach). Then this might be for you.
+If you are tired of the immense, unnecessary boilerplate that is `create-react-app`, and you want something a lot lighter, and more barebones (while still being modern in approach), then this might be for you.
 
-This will get you right into coding, and building out your ideas with the least amount of dependencies. Besides the benefits of starting with reduced dependencies, and a simpler file structure, it also uses a more modern approach with bundling. This keeps things simple and lightweight, yet still steps closer to shipping production-ready code. This was taken from [Ivad Yves HABIMANA](https://dev.to/ivadyhabimana)'s great article on the topic.
+This will get you right into building out your ideas with the least amount of dependencies in just a couple keystrokes. Besides the benefits of starting with reduced dependencies, and a simpler file structure, it also uses a more modern approach with bundling. This keeps things simple and lightweight, yet close to shipping production-ready code. This was taken from Ivad Yves HABIMANA's (link in Credits below) great article on the topic.
 
 Outside of the expected required packages to run React (Babel, React), this uses Webpack for bundling files, as well as its dev server (served at `http://localhost:5000/`).
 
@@ -18,7 +18,7 @@ Download or clone the repo and navigate to that folder in your terminal of choic
 npm start
 ```
 
-That's it.
+### That's it.
 
 There is no need to `npm run build`, because that is taken care of with Webpack.
 
@@ -30,5 +30,5 @@ When you run the command, your browser should automatically open up `http://loca
 
 ### Credits
 
-[Ivad Yves HABIMANA](https://dev.to/ivadyhabimana)
-[Jonah B.](https://github.com/jonahvsweb)
+- [Ivad Yves HABIMANA](https://dev.to/ivadyhabimana)
+- [Jonah B.](https://github.com/jonahvsweb)
